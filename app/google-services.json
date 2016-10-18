@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "880400950841",
+    "firebase_url": "https://blogging-384ca.firebaseio.com",
+    "project_id": "blogging-384ca",
+    "storage_bucket": "blogging-384ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880400950841:android:4ad56ddb35bdd964",
+        "android_client_info": {
+          "package_name": "firebaseapps.com.blogging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880400950841-m4qc94k73omk668l5ik0ujs4g4o1k5rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Vmg5mXArGSDNVlIj-56H3_D6QrWJIck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
